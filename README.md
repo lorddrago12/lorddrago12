@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Lord Drago**, a beginner developer who started learning Python recently and am growing fast by building real projects, experimenting with ideas, and improving one step at a time.
+Welcome to my GitHub profile! I'm **Drago**, a beginner developer who started learning Python recently and am growing fast by building real projects, experimenting with ideas, and improving one step at a time.
 
 I come from a **graphics design background**, so I combine creativity with code — and this mix helps me build simple, clean, and interesting projects while learning the core fundamentals of programming.
 
