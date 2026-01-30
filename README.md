@@ -1,15 +1,14 @@
-# Hi there 👋
+# 👋 Hi there, I’m Lord Drago
 
-I'm Drago, a graphics desginer and a programmer.
-I come from a **graphics design background**, so I combine creativity with code — and this mix helps me build simple, clean, and interesting projects while learning the core fundamentals of programming.
+I’m a beginner developer blending creativity and code. I started learning Python recently and I’m building real projects to grow my skills.
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-* 🌱 I am a beginer and i started with python and now i'm learning of a bit of html and css because I find it pretty cool.
-* 🎨 I have a graphics design background, which helps me think creatively.
-* 🛠️ I love making small tools, bots, games, and anything that helps me practice.
-* 🎯 My goal is to improve my coding skills and eventually build more advanced applications.
+- 🌱 Learning Python, HTML, CSS & JavaScript  
+- 🎨 Background in graphic design helps me build clean and creative projects  
+- 🛠️ I enjoy making tools, bots, games, and practical apps  
+- 🎯 Goal: Level up my dev skills and build more advanced apps
 
 ---
