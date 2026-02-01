@@ -19,7 +19,7 @@ When I'm not coding, I read some non-friction books and study.
 - 🌐 **Web Apps** - Building projects with HTML, CSS & JavaScript
 - 🎨 **Design Work** - Graphic design and visual content
 
-### GitHub Stats
+## GitHub Stats
 
-![Lord Drago's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorddrago12&show_icons=true&theme=cobalt&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorddrago12&layout=compact&theme=cobalt&hide_border=true)
+[![Lord Drago's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorddrago12&show_icons=true&theme=cobalt&hide_border=true)](https://github.com/lorddrago12)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorddrago12&layout=compact&theme=cobalt&hide_border=true)](https://github.com/lorddrago12)
