@@ -19,8 +19,9 @@ When I'm not coding, I read some non-friction books and study.
 - 🌐 **Web Apps** - Building projects with HTML, CSS & JavaScript
 - 🎨 **Design Work** - Graphic design and visual content
 
-## Code Analytics
+### Code Analytics
 
 ![By Code Size](https://github-readme-stats.vercel.app/api/top-langs/?username=lorddrago12&layout=compact&theme=cobalt&hide_border=true&langs_count=10&custom_title=By%20Code%20Size)
 ![By Repo Count](https://github-readme-stats.vercel.app/api/top-langs/?username=lorddrago12&layout=compact&theme=cobalt&hide_border=true&size_weight=0&count_weight=1&langs_count=10&custom_title=By%20Repo%20Count)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorddrago12&theme=cobalt&hide_border=true&show_icons=true&rank_icon=github)
