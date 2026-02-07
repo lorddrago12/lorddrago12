@@ -19,3 +19,8 @@ When I'm not coding, I read some non-friction books and study.
 - 🌐 **Web Apps** - Building projects with HTML, CSS & JavaScript
 - 🎨 **Design Work** - Graphic design and visual content
 
+### Fun Facts about me
+
+* I like reading books and making games.
+* I'm a graphics desginr and a music artist too.
+* I like playing chess.
