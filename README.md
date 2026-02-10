@@ -1,26 +1,21 @@
-### Hey, I'm Lord Drago!
+# 👋 Hi there!
 
-I'm a beginner developer, just starting my coding journey. I come from a graphic design background and recently dove into Python and web development. I'm learning by building real projects - bots, games, tools, and web apps.
+I'm drago a creative developer blending design and code. I build bots, tools, games, and practical apps that solve real problems.
 
-When I'm not coding, I read some non-friction books and study.
+**Tech Stack:** Python, HTML, CSS, JavaScript  
+**Background:** Graphic Design  
+**Currently Focusing:** Building more advanced apps and leveling up my development skills
 
-* **Learning:** Python, JavaScript, HTML/CSS, and Game Development
-* **Creating:** Discord bots, web apps, automation tools, and games
-* **Designing:** 
+---
 
-### Tech Stack I'm Learning
+## About Me
 
-[![](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+I enjoy making things that are both functional and creative. My design background helps me think about user experience while coding.
 
-### What I'm Building
+---
 
-- 🤖 **Discord Bots** - Creating bots that interact with users
-- 🎮 **Games** - Learning game development fundamentals
-- 🌐 **Web Apps** - Building projects with HTML, CSS & JavaScript
-- 🎨 **Design Work** - Graphic design and visual content
-
-### Fun Facts about me
-
-* I like reading books and making games.
-* I'm a graphics desginr and a music artist too.
-* I like playing chess.
+**Fun Facts:**
+*  Started with graphic design, now bringing that eye to development
+*  Love building Discord bots and automation tools
+*  Enjoy creating small games and interactive projects
+*  If I can imagine it, I'll try to build it
