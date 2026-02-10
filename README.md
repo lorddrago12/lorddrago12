@@ -6,13 +6,9 @@ I'm drago a creative developer blending design and code. I build bots, tools, ga
 **Background:** Graphic Design  
 **Currently Focusing:** Building more advanced apps and leveling up my development skills
 
----
-
 ## About Me
 
 I enjoy making things that are both functional and creative. My design background helps me think about user experience while coding.
-
----
 
 **Fun Facts:**
 *  Started with graphic design, now bringing that eye to development
