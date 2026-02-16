@@ -3,7 +3,7 @@
 I'm Drago a graphics desginer and a programmer. I like building clean, modern, minimal apps and some games.
 
 
-# These days I’m focused on:
+## These days I’m focused on:
 
 * html, css, javascript and python
 * small apps using electron
@@ -11,7 +11,7 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 
 ---
 
-# Some stuff I built:
+## Some stuff I built:
 
 * <a url="https://github.com/lorddrago12/BASIC-Programming-Language">Basic Programming Language</a> - A simple interpreted programming language made using python.
 * <a url="https://github.com/lorddrago12/DrawMate">Draw Mate</a> - A drawing app made using html, css and javascript.
@@ -20,6 +20,6 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 
 ---
 
-# Fun Facts:
-* # Hobbies: chess and calisthenics
+## Fun Facts:
+* ### Hobbies: chess and calisthenics
 * I dont like listening to music when working.
