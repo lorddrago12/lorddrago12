@@ -21,5 +21,5 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 ---
 
 ## Fun Facts:
-* ### Hobbies: chess and calisthenics
+* I like playing chess
 * I dont like listening to music when working.
