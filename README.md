@@ -5,8 +5,8 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 
 ## These days I’m focused on:
 
-* html, css, javascript and python
-* small apps using electron
+* learning web development
+* building electron apps
 * simple tools
 
 ---
