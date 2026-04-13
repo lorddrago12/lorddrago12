@@ -5,7 +5,7 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 
 ## These days I’m focused on:
 
-* learning web development
+* learning javascript
 * building electron apps
 * simple tools
 
@@ -23,4 +23,4 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 
 ## Fun Facts:
 * I like playing chess
-* I dont like listening to music when working.
+* I dont like listening to music when working because it helps me focus.
