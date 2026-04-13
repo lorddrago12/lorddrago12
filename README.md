@@ -1,4 +1,4 @@
-## Hi there! 
+# Hey There, I'm Drago 👋
 
 I'm Drago a graphics desginer and a programmer. I like building clean, modern, minimal apps and some games.
 
@@ -6,9 +6,9 @@ I'm Drago a graphics desginer and a programmer. I like building clean, modern, m
 ## These days I’m focused on:
 
 * learning javascript
-* building electron apps
-* simple tools
-
+* building electron apps                                                                                                          
+* simple tools                              
+                                                                                                                        
 ---
 
 ## Some stuff I built:
